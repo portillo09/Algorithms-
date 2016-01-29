@@ -1,0 +1,1 @@
+Omar PortilloCSC130Assignment#1Analysis file: T(maxSubProduct, N) = 1 +2T(maxSubProduct, N/2) + N (T(maxSubProduct, N)) / N = (T(maxSubProduct, N/2)) / (N/2) + log(N)T(maxSubProduct, N) = N + Nlog(N)T(maxSubProduct, N) = O(Nlog(N)	
